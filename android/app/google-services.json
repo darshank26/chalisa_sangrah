@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041897693133",
+    "project_id": "chalisa-sangrah-287a6",
+    "storage_bucket": "chalisa-sangrah-287a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041897693133:android:82072f4f935808f5fc6e84",
+        "android_client_info": {
+          "package_name": "com.darshankomu.chalisa_sangrah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041897693133-8pcrho19ncttka5uvf7sqr896m85db15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darshankomu.chalisa_sangrah",
+            "certificate_hash": "2381084f1f4b2a9415b0b802f9ddb80bab4262c9"
+          }
+        },
+        {
+          "client_id": "1041897693133-v9q9kevipr7549oe9uvo10g0lmvlvi2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmTqCzc-yJFw6oVD_m5SmcSJoJ9ZIjeo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041897693133-v9q9kevipr7549oe9uvo10g0lmvlvi2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
